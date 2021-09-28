@@ -1,3 +1,12 @@
 ibmcloud_api_key = "EWFCRUDOAyuSlXfmYkjYfkU7ycTMe2Wnv6o4vjHD7DT8"
 region = "us-south"
-ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCyVjKHISahZ6tQPeUl/bZt+bAhqKl4FHAp2kSKAwvj0Nd2j+DGijEPcMTHMJ2m2FA7brTmRkTTO29OxZxMVRJBZgfN65AFZR3Bu5neMWn5oWjXgORr4gbOC0Lbqmpr9kE0zfN/UjfcoVaLgWFO/7e1LcqDbohyEYB969Apl+UEL2MhPZUsxYnLVng/c72T+AYZgWtQFXH84OSLtJR0oY9IAg1GlH8/aj9cwD8ooCi0pcbFtKVxvqhi9GxMHZVyzfwe6eFhvqg+z/GA+arx5CQeO5lzfO77uheA62OW5dtsJIqjnRN7P4ONKHP3AgK0q2XNiM+DnXVlkj9haQCEpPKkkuRUPm00rS/ccURxDAheJ5CH3z5HNFccVrf/NI3pRgZ7o4FrsFivxRYG9GoolWucrndj6fYkl+OEXaCAkL88ZYiFqhmWyFkz6VDgWcI1msNl29DgZpjlhXTVz+t/GLyrPlEawwfe/0FV10uY8pFTwKtCf1JIr1QYvD8DRyhuUTM= kruthi@DESKTOP-5A5DL1V"
+datacenter = "wdc04"
+machine_type = "b2c.4x16"
+private_vlan_id = "null"
+public_vlan_id = "null"
+
+cluster_name = "cluster1"
+poolsize = "2"
+   
+kube_version = "1.14.7"
+hardware = "shared"
